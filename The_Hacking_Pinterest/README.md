@@ -1,7 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
+Hello, 
+
+
+Ce projet a été fait avec Mustapha Ait Ouayhou, Thomas Perus Anais Diologeant
 
 Things you may want to cover:
 
