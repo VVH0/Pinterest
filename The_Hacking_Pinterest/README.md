@@ -5,7 +5,7 @@ L'objectif de ce projet était de réaliser une Base de donnée à l'aide de Rai
 Cloner ce repository.
 
 🔧 Pré-requis
-Il sera nécessaire d'installer certains gems. Pour réaliser cettre base de donnée, j'ai utilisé Ruby 2.5.3 (ou Ruby 2.5.1) ainsi que Rails 5.2.1. Veillez bien à avoir ces versions installées pour pouvoir utilisé cette base de donnée. Pour ce faire, rentrer dans le repository grâce à la commande :
+Il sera nécessaire d'installer certains gems. Pour réaliser cette base de donnée, j'ai utilisé Ruby 2.5.3 (ou Ruby 2.5.1) ainsi que Rails 5.2.1. Veillez bien à avoir ces versions installées pour pouvoir utiliser cette base de donnée. pour faire cela, vous entrez dans le repository grâce à la commande :
 
 cd thehackingnews
 Puis taper dans le Terminal :
